@@ -1,4 +1,4 @@
-name: Ejecutor de Web Diario
+name: Actualizador de noticias diario
 
 # 1. CUÁNDO SE EJECUTA
 on:
