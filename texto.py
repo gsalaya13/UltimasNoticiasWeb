@@ -34,5 +34,5 @@ df.to_csv("ultimas_noticias", index=False)
 print("Scraping exitoso y archivo ultimas_noticias.csv creado.")
 """
 
-with open("scraper.py", "w", encoding="utf-8") as f:
+with open("texto.py", "w", encoding="utf-8") as f:
     f.write(script_code)
