@@ -1,10 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
-# Guardar el script completo en un archivo .py local
-script_code = """import requests
-from bs4 import BeautifulSoup
-import pandas as pd
 
 url = "https://thehackernews.com/"
 response = requests.get(url)
@@ -32,7 +28,3 @@ for Noticia in Noticias:
 df = pd.DataFrame(datos)
 df.to_csv("ultimas_noticias", index=False)
 print("Scraping exitoso y archivo ultimas_noticias.csv creado.")
-"""
-
-with open("texto.py", "w", encoding="utf-8") as f:
-    f.write(script_code)
