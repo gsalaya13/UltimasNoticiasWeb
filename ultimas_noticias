@@ -1,11 +1,15 @@
 Noticia,Fecha_Publicacion,Hashtags
+Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors,"Sep 11, 2026",Vulnerability / DevOps
+China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor,"Sep 11, 2026",Vulnerability / Browser Security
+PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws,"Sep 11, 2026",Vulnerability / Cyber Attack
+11 years of data. New AI Risk Guidance,,Security Awareness / Cybersecurity
+Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware,"Sep 11, 2026",Vulnerability / Malware
 "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories","Sep 10, 2026",Hacking News / Cybersecurity News
+New Webinar: How AI Broke the Pyramid of Pain for Threat Detection,,Threat Hunting / Phishing
 Google Play Early Access Abused to Push Thousands of Deceptive Android Apps,"Sep 10, 2026",Mobile Security / Artificial Intelligence
 Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE,"Sep 10, 2026",Vulnerability / Network Security
-11 years of data. New AI Risk Guidance,,Security Awareness / Cybersecurity
 PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances,"Sep 10, 2026",Cyber Attack  / Vulnerability
 Gigabud Creates Android Work Profiles to Hide From Banking App Malware Checks,"Sep 10, 2026",Malware / Mobile Security
-New Webinar: How AI Broke the Pyramid of Pain for Threat Detection,,Threat Hunting / Phishing
 "CISA Flags Exploited Cisco, Citrix, Fortinet Flaws, Sets Sept. 12 Federal Patch Deadline","Sep 10, 2026",Vulnerability / Network Security
 "Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example ""sk-1234"" Admin Key","Sep 10, 2026",Cloud Security / Artificial Intelligence
 Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6,"Sep 10, 2026",Artificial Intelligence / Web Security
@@ -13,7 +17,3 @@ Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6,"Sep
 Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week,"Sep 09, 2026",Vulnerability / Cyber Espionage
 Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA,"Sep 09, 2026",Malware / Artificial Intelligence
 Webinar: Learn How to Answer “Are We Exposed?” Faster After a New CVE,"Sep 09, 2026",Security Operations / Artificial Intelligenc
-DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval,"Sep 09, 2026",Vulnerability / Artificial Intelligence
-Alby Hub Critical Flaw Could Let Attackers Take Over Internet-Exposed Bitcoin Wallets,"Sep 09, 2026",Vulnerability / Cryptocurrency
-"U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok","Sep 09, 2026",Artificial Intelligence / Cloud Security
-Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox,"Sep 09, 2026",Vulnerability / Browser Security
