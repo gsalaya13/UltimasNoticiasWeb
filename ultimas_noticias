@@ -1,11 +1,13 @@
 Noticia,Fecha_Publicacion,Hashtags
+"Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users","Sep 14, 2026",Malware / Browser Security
+Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data,"Sep 13, 2026",Cloud Security / Identity Security
 "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV","Sep 12, 2026",Vulnerability / Enterprise Security
+AI Security's Greatest Hits,,AI Security / Cheat Sheet
 When the Whole Company Adopts AI: What It Does to Your SOC,"Sep 12, 2026",AI Agent / Security Operations
 OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers,"Sep 12, 2026",Vulnerability / Web Security
-11 years of data. New AI Risk Guidance,,Security Awareness / Cybersecurity
+Free Assessment: Identify Hidden Internal Risk,,Attack Surface / Threat Detection
 GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure,"Sep 11, 2026",Vulnerability / Web Security
 Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks,"Sep 11, 2026",Artificial Intelligence / Cybercrime
-New Webinar: How AI Broke the Pyramid of Pain for Threat Detection,,Threat Hunting / Phishing
 Claude Used to Automate Exploitation and Data Theft Across Multiple Victims,"Sep 11, 2026",Artificial Intelligence / Cyber Operations
 Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection,"Sep 11, 2026",Cyber Espionage / Malware
 Your Critical Vulnerabilities Might Not Be Your Biggest Risk,"Sep 11, 2026",Penetration Testing / Artificial Intelligence
@@ -15,5 +17,3 @@ PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws,
 Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware,"Sep 11, 2026",Vulnerability / Malware
 "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories","Sep 10, 2026",Hacking News / Cybersecurity News
 Google Play Early Access Abused to Push Thousands of Deceptive Android Apps,"Sep 10, 2026",Mobile Security / Artificial Intelligence
-Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE,"Sep 10, 2026",Vulnerability / Network Security
-PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances,"Sep 10, 2026",Cyber Attack  / Vulnerability
