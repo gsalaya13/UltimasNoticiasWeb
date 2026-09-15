@@ -1,19 +1,19 @@
 Noticia,Fecha_Publicacion,Hashtags
+LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server,"Sep 15, 2026",Vulnerability / Web Security
+"Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution","Sep 15, 2026",Vulnerability / Network Security
+China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE,"Sep 15, 2026",Vulnerability / Cyber Espionage
+AI Security's Greatest Hits,,AI Security / Cheat Sheet
+New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing,"Sep 14, 2026",Vulnerability / Cloud Security
+"3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials","Sep 14, 2026",Network Security / Cyber Attack
+Free Assessment: Identify Hidden Internal Risk,,Attack Surface / Threat Detection
+Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports,"Sep 14, 2026",Vulnerability / Data Security
+Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries,"Sep 14, 2026",Cyber Espionage / Vulnerability
+WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution,"Sep 14, 2026",Web Security / Vulnerability
+"⚡ Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits","Sep 14, 2026",Cybersecurity / Hacking
+AI Changed the Exposure Problem. Validation Needs to Change With It.,"Sep 14, 2026",Vulnerability / Penetration Testing
 "Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users","Sep 14, 2026",Malware / Browser Security
 Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data,"Sep 13, 2026",Cloud Security / Identity Security
 "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV","Sep 12, 2026",Vulnerability / Enterprise Security
-AI Security's Greatest Hits,,AI Security / Cheat Sheet
 When the Whole Company Adopts AI: What It Does to Your SOC,"Sep 12, 2026",AI Agent / Security Operations
 OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers,"Sep 12, 2026",Vulnerability / Web Security
-Free Assessment: Identify Hidden Internal Risk,,Attack Surface / Threat Detection
 GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure,"Sep 11, 2026",Vulnerability / Web Security
-Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks,"Sep 11, 2026",Artificial Intelligence / Cybercrime
-Claude Used to Automate Exploitation and Data Theft Across Multiple Victims,"Sep 11, 2026",Artificial Intelligence / Cyber Operations
-Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection,"Sep 11, 2026",Cyber Espionage / Malware
-Your Critical Vulnerabilities Might Not Be Your Biggest Risk,"Sep 11, 2026",Penetration Testing / Artificial Intelligence
-Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors,"Sep 11, 2026",Vulnerability / DevOps
-China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor,"Sep 11, 2026",Vulnerability / Browser Security
-PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws,"Sep 11, 2026",Vulnerability / Cyber Attack
-Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware,"Sep 11, 2026",Vulnerability / Malware
-"ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories","Sep 10, 2026",Hacking News / Cybersecurity News
-Google Play Early Access Abused to Push Thousands of Deceptive Android Apps,"Sep 10, 2026",Mobile Security / Artificial Intelligence
