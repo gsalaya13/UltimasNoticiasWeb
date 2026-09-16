@@ -1,19 +1,19 @@
 Noticia,Fecha_Publicacion,Hashtags
+Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells,"Sep 16, 2026",Vulnerability / Web Security
+Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens,"Sep 16, 2026",Vulnerability / API Security
+KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens,"Sep 15, 2026",Cybercrime / Browser Security
+AI Security's Greatest Hits,,AI Security / Cheat Sheet
+Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists,"Sep 15, 2026",Malware / Cyber Espionage
+BambooToken Malware Uses MQTT to Control Windows and Linux Systems,"Sep 15, 2026",
+Free Assessment: Identify Hidden Internal Risk,,Attack Surface / Threat Detection
+"Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds","Sep 15, 2026",Vulnerability / Malware
+"Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point","Sep 15, 2026",Security Testing / Attack Simulation
+Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers,"Sep 15, 2026",Vulnerability / Cloud Security
 LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server,"Sep 15, 2026",Vulnerability / Web Security
 "Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution","Sep 15, 2026",Vulnerability / Network Security
 China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE,"Sep 15, 2026",Vulnerability / Cyber Espionage
-AI Security's Greatest Hits,,AI Security / Cheat Sheet
 New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing,"Sep 14, 2026",Vulnerability / Cloud Security
 "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials","Sep 14, 2026",Network Security / Cyber Attack
-Free Assessment: Identify Hidden Internal Risk,,Attack Surface / Threat Detection
 Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports,"Sep 14, 2026",Vulnerability / Data Security
 Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries,"Sep 14, 2026",Cyber Espionage / Vulnerability
 WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution,"Sep 14, 2026",Web Security / Vulnerability
-"⚡ Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits","Sep 14, 2026",Cybersecurity / Hacking
-AI Changed the Exposure Problem. Validation Needs to Change With It.,"Sep 14, 2026",Vulnerability / Penetration Testing
-"Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users","Sep 14, 2026",Malware / Browser Security
-Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data,"Sep 13, 2026",Cloud Security / Identity Security
-"CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV","Sep 12, 2026",Vulnerability / Enterprise Security
-When the Whole Company Adopts AI: What It Does to Your SOC,"Sep 12, 2026",AI Agent / Security Operations
-OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers,"Sep 12, 2026",Vulnerability / Web Security
-GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure,"Sep 11, 2026",Vulnerability / Web Security
