@@ -1,19 +1,19 @@
 Noticia,Fecha_Publicacion,Hashtags
+"BIND 9 Update Fixes 14 Flaws, Including an Unauthenticated Crash Over DNS-over-HTTPS","Sep 17, 2026",Vulnerability / DNS Security
+Gyazo Breach Exposes 23.62 Million User Records and 490 Million Image Metadata Records,"Sep 17, 2026",Data Breach / Web Security
+Cisco Warns of New Zero-Day ISE Auth Bypass (CVSS 10.0) Exploited in Active Attacks,"Sep 17, 2026",Vulnerability / Web Security
+AI Security's Greatest Hits,,AI Security / Cheat Sheet
+U.S. Seizes NightmareStresser Domains Linked to Hundreds of Thousands of DDoS Attacks,"Sep 17, 2026",Cybercrime / DDoS-for-Hire
+Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution,"Sep 16, 2026",Vulnerability / Web Security
+Free Assessment: Identify Hidden Internal Risk,,Attack Surface / Threat Detection
+"Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers","Sep 16, 2026",Malware / Vulnerability
+"One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude","Sep 16, 2026",Vulnerability / Browser Security
+"Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories","Sep 16, 2026",Artificial Intelligence / Software Security
+"Parallels Desktop Flaw Lets Non-Admin Mac Users Gain Root, but Intel Macs Can't Install Fix","Sep 16, 2026",Vulnerability / Endpoint Security
+N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security,"Sep 16, 2026",Identity Security / Web Security
+Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation,"Sep 16, 2026",Vulnerability / Mobile Security
+Threat Intelligence Alone Won't Close the Exploitation Gap,"Sep 16, 2026",Threat Intelligence / Security Validation
+Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks,"Sep 16, 2026",Vulnerability / Linux
 Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells,"Sep 16, 2026",Vulnerability / Web Security
 Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens,"Sep 16, 2026",Vulnerability / API Security
 KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens,"Sep 15, 2026",Cybercrime / Browser Security
-AI Security's Greatest Hits,,AI Security / Cheat Sheet
-Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists,"Sep 15, 2026",Malware / Cyber Espionage
-BambooToken Malware Uses MQTT to Control Windows and Linux Systems,"Sep 15, 2026",
-Free Assessment: Identify Hidden Internal Risk,,Attack Surface / Threat Detection
-"Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds","Sep 15, 2026",Vulnerability / Malware
-"Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point","Sep 15, 2026",Security Testing / Attack Simulation
-Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers,"Sep 15, 2026",Vulnerability / Cloud Security
-LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server,"Sep 15, 2026",Vulnerability / Web Security
-"Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution","Sep 15, 2026",Vulnerability / Network Security
-China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE,"Sep 15, 2026",Vulnerability / Cyber Espionage
-New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing,"Sep 14, 2026",Vulnerability / Cloud Security
-"3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials","Sep 14, 2026",Network Security / Cyber Attack
-Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports,"Sep 14, 2026",Vulnerability / Data Security
-Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries,"Sep 14, 2026",Cyber Espionage / Vulnerability
-WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution,"Sep 14, 2026",Web Security / Vulnerability
