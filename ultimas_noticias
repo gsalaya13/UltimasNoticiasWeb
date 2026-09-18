@@ -1,19 +1,19 @@
 Noticia,Fecha_Publicacion,Hashtags
+Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer,"Sep 18, 2026",Malware / Cybercrime
+RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall,"Sep 18, 2026",Mobile Security / Malware
+Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root,"Sep 17, 2026",Vulnerability / Enterprise Security
+AI Security's Greatest Hits,,AI Security / Cheat Sheet
+"ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories","Sep 17, 2026",Hacking News / Cybersecurity News
+Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files,"Sep 17, 2026",Vulnerability / Artificial Intelligence
+Free Assessment: Identify Hidden Internal Risk,,Attack Surface / Threat Detection
+Iran-Linked Handala Hack Tied to HEAVYGRAM Telegram Backdoor That Can Steal Passwords,"Sep 17, 2026",Cyber Espionage / Malware
+Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone,"Sep 17, 2026",Vulnerability / DNS Security
+Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar,"Sep 17, 2026",Security Operations / Artificial Intelligence
+CISO's Expert Guide to Agentic Pentesting for Websites,"Sep 17, 2026",Application Security / AI Agent
+China-Aligned FamousSparrow Deploys SparroWocky Backdoor Across Latin America,"Sep 17, 2026",Malware / Cyber Espionage
+OpenAI Reveals Six Model Incidents Involving Hidden Failures and Unauthorized Uploads,"Sep 17, 2026",Artificial Intelligence / Vulnerability
 "BIND 9 Update Fixes 14 Flaws, Including an Unauthenticated Crash Over DNS-over-HTTPS","Sep 17, 2026",Vulnerability / DNS Security
 Gyazo Breach Exposes 23.62 Million User Records and 490 Million Image Metadata Records,"Sep 17, 2026",Data Breach / Web Security
 Cisco Warns of New Zero-Day ISE Auth Bypass (CVSS 10.0) Exploited in Active Attacks,"Sep 17, 2026",Vulnerability / Web Security
-AI Security's Greatest Hits,,AI Security / Cheat Sheet
 U.S. Seizes NightmareStresser Domains Linked to Hundreds of Thousands of DDoS Attacks,"Sep 17, 2026",Cybercrime / DDoS-for-Hire
 Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution,"Sep 16, 2026",Vulnerability / Web Security
-Free Assessment: Identify Hidden Internal Risk,,Attack Surface / Threat Detection
-"Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers","Sep 16, 2026",Malware / Vulnerability
-"One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude","Sep 16, 2026",Vulnerability / Browser Security
-"Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories","Sep 16, 2026",Artificial Intelligence / Software Security
-"Parallels Desktop Flaw Lets Non-Admin Mac Users Gain Root, but Intel Macs Can't Install Fix","Sep 16, 2026",Vulnerability / Endpoint Security
-N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security,"Sep 16, 2026",Identity Security / Web Security
-Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation,"Sep 16, 2026",Vulnerability / Mobile Security
-Threat Intelligence Alone Won't Close the Exploitation Gap,"Sep 16, 2026",Threat Intelligence / Security Validation
-Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks,"Sep 16, 2026",Vulnerability / Linux
-Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells,"Sep 16, 2026",Vulnerability / Web Security
-Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens,"Sep 16, 2026",Vulnerability / API Security
-KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens,"Sep 15, 2026",Cybercrime / Browser Security
