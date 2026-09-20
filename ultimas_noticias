@@ -1,11 +1,15 @@
 Noticia,Fecha_Publicacion,Hashtags
+Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws,"Sep 19, 2026",Vulnerability / Artificial Intelligence
+Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar,"Sep 19, 2026",Security Operations / Artificial Intelligence
+Identity Visibility in 2026: The Foundation of Identity Security,"Sep 19, 2026",Identity Security / Zero Trust
+AI Security's Greatest Hits,,AI Security / Cheat Sheet
+SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE,"Sep 19, 2026",Vulnerability / Identity Security
 Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild,"Sep 19, 2026",Vulnerability / Web Security
+Free Assessment: Identify Hidden Internal Risk,,Attack Surface / Threat Detection
 Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up,"Sep 19, 2026",Artificial Intelligence / Web Security
 CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories,"Sep 19, 2026",Data Breach / Supply Chain Attack
-AI Security's Greatest Hits,,AI Security / Cheat Sheet
 CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild,"Sep 19, 2026",Vulnerability / Linux
 Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root,"Sep 18, 2026",Vulnerability / Linux
-Free Assessment: Identify Hidden Internal Risk,,Attack Surface / Threat Detection
 "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution","Sep 18, 2026",Vulnerability / Web Security
 Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2,"Sep 18, 2026",Malware / Cyber Espionage
 Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation,"Sep 18, 2026",Vulnerability / Cloud Security
@@ -13,7 +17,3 @@ An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.,"�
 Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents,"Sep 18, 2026",Vulnerability / Artificial Intelligence
 WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage,"Sep 18, 2026",Malware / Web Security
 Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer,"Sep 18, 2026",Malware / Cybercrime
-RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall,"Sep 18, 2026",Mobile Security / Malware
-Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root,"Sep 17, 2026",Vulnerability / Enterprise Security
-"ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories","Sep 17, 2026",Hacking News / Cybersecurity News
-Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files,"Sep 17, 2026",Vulnerability / Artificial Intelligence
