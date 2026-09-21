@@ -1,11 +1,13 @@
 Noticia,Fecha_Publicacion,Hashtags
+ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure,"Sep 21, 2026",Malware / Cybercrime
+Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors,"Sep 21, 2026",Malware / Social Engineering
 Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws,"Sep 19, 2026",Vulnerability / Artificial Intelligence
+"Do You Need to Protect AI, Use AI, or Govern AI? SANS has Mapped All Three.",,AI in Cybersecurity
 Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar,"Sep 19, 2026",Security Operations / Artificial Intelligence
 Identity Visibility in 2026: The Foundation of Identity Security,"Sep 19, 2026",Identity Security / Zero Trust
-AI Security's Greatest Hits,,AI Security / Cheat Sheet
+Mikko Hyppönen and Enterprise CISOs on What AI-Speed Attacks Actually Change,,AI Security / Threat Detection
 SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE,"Sep 19, 2026",Vulnerability / Identity Security
 Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild,"Sep 19, 2026",Vulnerability / Web Security
-Free Assessment: Identify Hidden Internal Risk,,Attack Surface / Threat Detection
 Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up,"Sep 19, 2026",Artificial Intelligence / Web Security
 CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories,"Sep 19, 2026",Data Breach / Supply Chain Attack
 CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild,"Sep 19, 2026",Vulnerability / Linux
@@ -15,5 +17,3 @@ Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories fo
 Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation,"Sep 18, 2026",Vulnerability / Cloud Security
 An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.,"Sep 18, 2026",Web Security / Compliance
 Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents,"Sep 18, 2026",Vulnerability / Artificial Intelligence
-WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage,"Sep 18, 2026",Malware / Web Security
-Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer,"Sep 18, 2026",Malware / Cybercrime
