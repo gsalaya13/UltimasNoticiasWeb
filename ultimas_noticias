@@ -1,19 +1,19 @@
 Noticia,Fecha_Publicacion,Hashtags
+SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing,"Sep 22, 2026",Malware / Cyber Espionage
+One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor,"Sep 22, 2026",Vulnerability / Artificial Intelligence
+WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session,"Sep 22, 2026",Vulnerability / Web Security
+"Do You Need to Protect AI, Use AI, or Govern AI? SANS has Mapped All Three.",,AI in Cybersecurity
+Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access,"Sep 22, 2026",Vulnerability / Endpoint Security
+Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR,"Sep 21, 2026",Endpoint Security / Malware
+Mikko Hyppönen and Enterprise CISOs on What AI-Speed Attacks Actually Change,,AI Security / Threat Detection
+"Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto","Sep 21, 2026",Malware / Cyber Espionage
+Google Fined €403 Million Over GDPR Violations Tied to Location Data,"Sep 21, 2026",Data Privacy / Regulatory Compliance
+"⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks","Sep 21, 2026",Cybersecurity News / Hacking
+"TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data","Sep 21, 2026",Endpoint Security / Malware
 ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure,"Sep 21, 2026",Malware / Cybercrime
 Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors,"Sep 21, 2026",Malware / Social Engineering
 Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws,"Sep 19, 2026",Vulnerability / Artificial Intelligence
-"Do You Need to Protect AI, Use AI, or Govern AI? SANS has Mapped All Three.",,AI in Cybersecurity
 Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar,"Sep 19, 2026",Security Operations / Artificial Intelligence
 Identity Visibility in 2026: The Foundation of Identity Security,"Sep 19, 2026",Identity Security / Zero Trust
-Mikko Hyppönen and Enterprise CISOs on What AI-Speed Attacks Actually Change,,AI Security / Threat Detection
 SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE,"Sep 19, 2026",Vulnerability / Identity Security
 Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild,"Sep 19, 2026",Vulnerability / Web Security
-Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up,"Sep 19, 2026",Artificial Intelligence / Web Security
-CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories,"Sep 19, 2026",Data Breach / Supply Chain Attack
-CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild,"Sep 19, 2026",Vulnerability / Linux
-Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root,"Sep 18, 2026",Vulnerability / Linux
-"New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution","Sep 18, 2026",Vulnerability / Web Security
-Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2,"Sep 18, 2026",Malware / Cyber Espionage
-Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation,"Sep 18, 2026",Vulnerability / Cloud Security
-An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.,"Sep 18, 2026",Web Security / Compliance
-Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents,"Sep 18, 2026",Vulnerability / Artificial Intelligence
