@@ -1,19 +1,19 @@
 Noticia,Fecha_Publicacion,Hashtags
-SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing,"Sep 22, 2026",Malware / Cyber Espionage
-One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor,"Sep 22, 2026",Vulnerability / Artificial Intelligence
-WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session,"Sep 22, 2026",Vulnerability / Web Security
+F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers,"Sep 23, 2026",Vulnerability / Network Security
+Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware,"Sep 23, 2026",Zero-Day / Vulnerability
+Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via Crafted SVG Input,"Sep 23, 2026",Vulnerability / Web Security
 "Do You Need to Protect AI, Use AI, or Govern AI? SANS has Mapped All Three.",,AI in Cybersecurity
-Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access,"Sep 22, 2026",Vulnerability / Endpoint Security
-Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR,"Sep 21, 2026",Endpoint Security / Malware
+"ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants","Sep 23, 2026",Data Breach / Cybercrime
+Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks,"Sep 22, 2026",Network Security / Vulnerability
 Mikko Hyppönen and Enterprise CISOs on What AI-Speed Attacks Actually Change,,AI Security / Threat Detection
-"Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto","Sep 21, 2026",Malware / Cyber Espionage
-Google Fined €403 Million Over GDPR Violations Tied to Location Data,"Sep 21, 2026",Data Privacy / Regulatory Compliance
-"⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks","Sep 21, 2026",Cybersecurity News / Hacking
-"TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data","Sep 21, 2026",Endpoint Security / Malware
-ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure,"Sep 21, 2026",Malware / Cybercrime
-Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors,"Sep 21, 2026",Malware / Social Engineering
-Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws,"Sep 19, 2026",Vulnerability / Artificial Intelligence
-Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar,"Sep 19, 2026",Security Operations / Artificial Intelligence
-Identity Visibility in 2026: The Foundation of Identity Security,"Sep 19, 2026",Identity Security / Zero Trust
-SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE,"Sep 19, 2026",Vulnerability / Identity Security
-Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild,"Sep 19, 2026",Vulnerability / Web Security
+WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers,"Sep 22, 2026",Vulnerability / Web Security
+"Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials","Sep 22, 2026",Supply Chain Attack / Malware
+"Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises","Sep 22, 2026",Artificial Intelligence / Cybercrime
+Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials,"Sep 22, 2026",Artificial Intelligence / Vulnerability
+Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates,"Sep 22, 2026",Vulnerability / Endpoint Security
+AI Agents Are Rewriting the Rules of Lateral Movement,"Sep 22, 2026",Artificial Intelligence / Identity Security
+New CVSS 10.0 VeloCloud Orchestrator Flaw Actively Exploited in Certificate-Based Setups,"Sep 22, 2026",Vulnerability / Network Security
+DORA Year Two: Can Your SOC Actually See the Attack?,"Sep 22, 2026",Network Security / Incident Response
+New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory,"Sep 22, 2026",Vulnerability / Virtualization
+SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE,"Sep 22, 2026",Vulnerability / Web Security
+Malicious npm Package indexed-btree Hid Its Loader in Runtime Code Before Removal,"Sep 22, 2026",Supply Chain Attack / Malware
