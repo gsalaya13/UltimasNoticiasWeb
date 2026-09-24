@@ -1,19 +1,19 @@
 Noticia,Fecha_Publicacion,Hashtags
+"17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360","Sep 24, 2026",Social Engineering / Cybercrime
+OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files,"Sep 24, 2026",Artificial Intelligence / Web Security
+TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords,"Sep 24, 2026",Cloud Security / Identity Security
+947 Security Pros Told SANS Where the AI Skills Gap Actually Is,,AI in Cybersecurity
+Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure,"Sep 24, 2026",Vulnerability / Web Security
+Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry,"Sep 23, 2026",Malware / Supply Chain
+Mikko Hyppönen and Enterprise CISOs on What AI-Speed Attacks Actually Change,,AI Security / Threat Detection
+A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You,"Sep 23, 2026",DevOps Security / Supply Chain
+MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key,"Sep 23, 2026",Vulnerability / Network Security
+This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move,"Sep 23, 2026",Artificial Intelligence / Malware
+Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI,"Sep 23, 2026",Malware / Cloud Security
+"New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control","Sep 23, 2026",Vulnerability / Web Security
+545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent,"Sep 23, 2026",Artificial Intelligence / Security Testing
+Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests,"Sep 23, 2026",Artificial Intelligence / Cybersecurity
+Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape,"Sep 23, 2026",Vulnerability / Linux
 F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers,"Sep 23, 2026",Vulnerability / Network Security
 Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware,"Sep 23, 2026",Zero-Day / Vulnerability
 Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via Crafted SVG Input,"Sep 23, 2026",Vulnerability / Web Security
-"Do You Need to Protect AI, Use AI, or Govern AI? SANS has Mapped All Three.",,AI in Cybersecurity
-"ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants","Sep 23, 2026",Data Breach / Cybercrime
-Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks,"Sep 22, 2026",Network Security / Vulnerability
-Mikko Hyppönen and Enterprise CISOs on What AI-Speed Attacks Actually Change,,AI Security / Threat Detection
-WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers,"Sep 22, 2026",Vulnerability / Web Security
-"Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials","Sep 22, 2026",Supply Chain Attack / Malware
-"Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises","Sep 22, 2026",Artificial Intelligence / Cybercrime
-Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials,"Sep 22, 2026",Artificial Intelligence / Vulnerability
-Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates,"Sep 22, 2026",Vulnerability / Endpoint Security
-AI Agents Are Rewriting the Rules of Lateral Movement,"Sep 22, 2026",Artificial Intelligence / Identity Security
-New CVSS 10.0 VeloCloud Orchestrator Flaw Actively Exploited in Certificate-Based Setups,"Sep 22, 2026",Vulnerability / Network Security
-DORA Year Two: Can Your SOC Actually See the Attack?,"Sep 22, 2026",Network Security / Incident Response
-New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory,"Sep 22, 2026",Vulnerability / Virtualization
-SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE,"Sep 22, 2026",Vulnerability / Web Security
-Malicious npm Package indexed-btree Hid Its Loader in Runtime Code Before Removal,"Sep 22, 2026",Supply Chain Attack / Malware
