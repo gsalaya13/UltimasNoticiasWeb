@@ -1,11 +1,13 @@
 Noticia,Fecha_Publicacion,Hashtags
+JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure Resources,"Sep 28, 2026",Cloud Security / Identity Security
+CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally,"Sep 28, 2026",Vulnerability / Network Security
 Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation,"Sep 27, 2026",Vulnerability / Network Security
+Reco Finds Four in Five Agents Run With Zero IT Oversight,,SaaS Security / AI Security
 Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials,"Sep 26, 2026",Malware / Endpoint Security
 Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells,"Sep 26, 2026",Vulnerability / Web Security
-947 Security Pros Told SANS Where the AI Skills Gap Actually Is,,AI in Cybersecurity
+Build Your Email Security Strategy for the Agentic Era,,Email Security / Cybersecurity
 Zero Trust for AI Agents Starts With Fixing Zero Visibility,"Sep 26, 2026",Artificial Intelligence / Cloud Security
 Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link,"Sep 26, 2026",Vulnerability / Web Security
-Mikko Hyppönen and Enterprise CISOs on What AI-Speed Attacks Actually Change,,AI Security / Threat Detection
 SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild,"Sep 26, 2026",Vulnerability / Network Security
 Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack,"Sep 26, 2026",Threat Intelligence / Vulnerability
 Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware,"Sep 25, 2026",Malware / Supply Chain Attack
@@ -15,5 +17,3 @@ Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromis
 Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild,"Sep 25, 2026",Vulnerability / Email Security
 Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data,"Sep 25, 2026",Cloud Security / Vulnerability
 "WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV","Sep 25, 2026",Vulnerability / Web Security
-Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions,"Sep 24, 2026",Vulnerability / Mobile Security
-"ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories","Sep 24, 2026",Hacking News / Cybersecurity News
