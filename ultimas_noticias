@@ -1,19 +1,19 @@
 Noticia,Fecha_Publicacion,Hashtags
+US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access,"Sep 30, 2026",Phishing / Endpoint Security
+"Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT","Sep 30, 2026",Vulnerability / Web Security
+OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted,"Sep 30, 2026",Vulnerability / Network Security
+Reco Finds Four in Five Agents Run With Zero IT Oversight,,SaaS Security / AI Security
+Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution,"Sep 30, 2026",Vulnerability / Network Security
+French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks,"Sep 29, 2026",Data Breach / Network Security
+Build Your Email Security Strategy for the Agentic Era,,Email Security / Cybersecurity
+New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses,"Sep 29, 2026",Vulnerability / Hardware Security
+Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor,"Sep 29, 2026",Malware / Cyber Espionage
+Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown,"Sep 29, 2026",Vulnerability / Enterprise Security
+101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent,"Sep 29, 2026",Supply Chain / Malware
 Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation,"Sep 29, 2026",United States
 Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials,"Sep 29, 2026",Identity Security / Artificial Intelligence
 OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions,"Sep 29, 2026",Artificial Intelligence / Supply Chain
-Reco Finds Four in Five Agents Run With Zero IT Oversight,,SaaS Security / AI Security
 OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot,"Sep 29, 2026",Artificial Intelligence / Web Security
 Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks,"Sep 28, 2026",Vulnerability / Endpoint Security
-Build Your Email Security Strategy for the Agentic Era,,Email Security / Cybersecurity
 Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks,"Sep 28, 2026",Cyber Attack / Threat Intelligence
 IAM for AI agents: A Practical Enterprise Framework,"Sep 28, 2026",AI Agent Security / Enterprise Security
-Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M,"Sep 28, 2026",Vulnerability / Cybercrime
-RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims,"Sep 28, 2026",Mobile Security / Artificial Intelligence
-"⚡ Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats","Sep 28, 2026",Cybersecurity News / Hacking
-"Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI","Sep 28, 2026",Identity Security / AI Agent Security
-Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent,"Sep 28, 2026",Malware / Cloud Security
-JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure Resources,"Sep 28, 2026",Cloud Security / Identity Security
-CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally,"Sep 28, 2026",Vulnerability / Network Security
-Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation,"Sep 27, 2026",Vulnerability / Network Security
-Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials,"Sep 26, 2026",Malware / Endpoint Security
