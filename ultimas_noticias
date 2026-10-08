@@ -1,19 +1,19 @@
 Noticia,Fecha_Publicacion,Hashtags
+"Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia","Oct 08, 2026",Web Security / Threat Intelligence
+16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases,"Oct 08, 2026",Browser Security / Malware
+"U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks","Oct 08, 2026",Cybercrime / Cyber Espionage
+New Priorities for Critical Infrastructure: A Nation-State Threat Roundtable,,Critical Infrastructure / Cybersecurity
+MonsterCloud Owner Accused of Billing Over $19M While Secretly Paying Ransoms to Decrypt Data,"Oct 08, 2026",Cybercrime / Ransomware
+Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm,"Oct 08, 2026",Artificial Intelligence / Cloud Security
+AI adoption is outpacing IT visibility,,SaaS Security / AI Governance
+"Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains","Oct 07, 2026",Web Security / Domain Hijacking
+"Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer","Oct 07, 2026",Supply Chain / Malware
+SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances,"Oct 07, 2026",Vulnerability / Network Security
+Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely,"Oct 07, 2026",Vulnerability / Artificial Intelligence
+"PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet","Oct 07, 2026",Botnet / Cryptojacking
+The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow,"Oct 07, 2026",Artificial Intelligence / Data Security
+"FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials","Oct 07, 2026",Cybercrime / Network Security
+Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details,"Oct 07, 2026",Vulnerability / Web Security
+"What Is Agentic Pentesting? What It Proves, and Where It Stops.","Oct 07, 2026",Vulnerability / Security Testing
 "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws","Oct 07, 2026",Artificial Intelligence / Vulnerability
 100+ Compromised Websites Use Fake Cloudflare Checks to Deliver LunexStealer,"Oct 07, 2026",Malware / Web Security
-"Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes","Oct 06, 2026",Phishing / Artificial Intelligence
-Reco Finds Four in Five Agents Run With Zero IT Oversight,,SaaS Security / AI Security
-Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan,"Oct 06, 2026",Cyber Espionage / Malware
-LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings,"Oct 06, 2026",Vulnerability / Open Source
-Build Your Email Security Strategy for the Agentic Era,,Email Security / Cybersecurity
-Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies,"Oct 06, 2026",Artificial Intelligence / Web Security
-"Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers","Oct 06, 2026",Supply Chain / Artificial Intelligence
-Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports,"Oct 06, 2026",Vulnerability / Open Source
-Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products,"Oct 06, 2026",Vulnerability / Web Security
-FBI Removes Accenture Contractor After Patch Failure Led to ShinyHunters Breach,"Oct 06, 2026",
-Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account,"Oct 06, 2026",Data Breach / Privacy
-ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits,"Oct 06, 2026",Social Engineering / Malware
-Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes,"Oct 05, 2026",Vulnerability / Email Security
-"⚡ Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests","Oct 05, 2026",Cybersecurity News / Hacking
-The Credential Layer Is Expanding Faster Than Security Teams Can See It,"Oct 05, 2026",DevSecOps / Supply Chain
-Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2,"Oct 05, 2026",Vulnerability / Malware
