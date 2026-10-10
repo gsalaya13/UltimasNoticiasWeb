@@ -1,19 +1,19 @@
 Noticia,Fecha_Publicacion,Hashtags
+Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws,"Oct 10, 2026",Artificial Intelligence / Web Security
+Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories,"Oct 09, 2026",Supply Chain Attack / Cloud Security
+FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack,"Oct 09, 2026",Cybercrime / Data Breach
+New Priorities for Critical Infrastructure: A Nation-State Threat Roundtable,,Critical Infrastructure / Cybersecurity
+P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands,"Oct 09, 2026",Mobile Security / Malware
+TP-Link Sued by Four More U.S. States Over Router Security and China Ties,"Oct 09, 2026",Network Security / Data Privacy
+AI adoption is outpacing IT visibility,,SaaS Security / AI Governance
+Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access,"Oct 09, 2026",Vulnerability / Endpoint Security
+Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects,"Oct 09, 2026",Vulnerability / Artificial Intelligence
+Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge,"Oct 09, 2026",Vulnerability / Cryptojacking
+Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies,"Oct 09, 2026",Vulnerability / Cyber Espionage
 The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition,"Oct 09, 2026",Identity Security / Artificial Intelligence
 GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys,"Oct 09, 2026",Vulnerability / Dark Web
 Three Teams Demonstrate Remote Hacks of Fully Patched Google Pixel 10 at Pwn2Own,"Oct 09, 2026",Vulnerability / Mobile Security
-New Priorities for Critical Infrastructure: A Nation-State Threat Roundtable,,Critical Infrastructure / Cybersecurity
 Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments,"Oct 09, 2026",Vulnerability / Network Security
 "FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions","Oct 09, 2026",Cyber Espionage / Botnet
-AI adoption is outpacing IT visibility,,SaaS Security / AI Governance
 FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails,"Oct 08, 2026",Data Breach / Cyber Espionage
 "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories","Oct 08, 2026",Hacking News / Cybersecurity News
-Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks,"Oct 08, 2026",Data Breach / Web Security
-UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML,"Oct 08, 2026",Malware / Cyber Espionage
-ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms,"Oct 08, 2026",Agentic AI / Web Security
-"Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia","Oct 08, 2026",Web Security / Threat Intelligence
-16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases,"Oct 08, 2026",Browser Security / Malware
-"U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks","Oct 08, 2026",Cybercrime / Cyber Espionage
-MonsterCloud Owner Accused of Billing Over $19M While Secretly Paying Ransoms to Decrypt Data,"Oct 08, 2026",Cybercrime / Ransomware
-Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm,"Oct 08, 2026",Artificial Intelligence / Cloud Security
-"Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains","Oct 07, 2026",Web Security / Domain Hijacking
