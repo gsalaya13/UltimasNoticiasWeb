@@ -1,11 +1,12 @@
 Noticia,Fecha_Publicacion,Hashtags
+P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands,"Oct 11, 2026",Mobile Security / Malware
+The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't,"Oct 10, 2026",Artificial Intelligence / Enterprise Security
 Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws,"Oct 10, 2026",Artificial Intelligence / Web Security
+New Priorities for Critical Infrastructure: A Nation-State Threat Roundtable,,Critical Infrastructure / Cybersecurity
 Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories,"Oct 09, 2026",Supply Chain Attack / Cloud Security
 FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack,"Oct 09, 2026",Cybercrime / Data Breach
-New Priorities for Critical Infrastructure: A Nation-State Threat Roundtable,,Critical Infrastructure / Cybersecurity
-P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands,"Oct 09, 2026",Mobile Security / Malware
-TP-Link Sued by Four More U.S. States Over Router Security and China Ties,"Oct 09, 2026",Network Security / Data Privacy
 AI adoption is outpacing IT visibility,,SaaS Security / AI Governance
+TP-Link Sued by Four More U.S. States Over Router Security and China Ties,"Oct 09, 2026",Network Security / Data Privacy
 Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access,"Oct 09, 2026",Vulnerability / Endpoint Security
 Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects,"Oct 09, 2026",Vulnerability / Artificial Intelligence
 Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge,"Oct 09, 2026",Vulnerability / Cryptojacking
@@ -16,4 +17,3 @@ Three Teams Demonstrate Remote Hacks of Fully Patched Google Pixel 10 at Pwn2Own
 Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments,"Oct 09, 2026",Vulnerability / Network Security
 "FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions","Oct 09, 2026",Cyber Espionage / Botnet
 FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails,"Oct 08, 2026",Data Breach / Cyber Espionage
-"ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories","Oct 08, 2026",Hacking News / Cybersecurity News
