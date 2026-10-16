@@ -1,19 +1,19 @@
 Noticia,Fecha_Publicacion,Hashtags
-"GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories","Oct 15, 2026",Supply Chain Attack / Cloud Security
-"Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts","Oct 15, 2026",Vulnerability / Artificial Intelligence
-AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches,"Oct 15, 2026",Vulnerability / Cryptojacking
+China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers,"Oct 16, 2026",Zero-Day / Vulnerability
+CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing,"Oct 16, 2026",Artificial Intelligence / Data Security
+PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions,"Oct 16, 2026",Vulnerability / Network Security
 The AI for Security Virtual Summit (Oct 20),,AI for Security
-Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation,"Oct 15, 2026",Vulnerability / Network Security
-Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability,"Oct 14, 2026",Email Security / Vulnerability
+Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory,"Oct 15, 2026",Linux / Vulnerability
+"ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More","Oct 15, 2026",Hacking News / Cybersecurity News
 New: Analyzing 2026's Most Prevalent Browser Attack Techniques,,Browser Security / Phishing
-Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s Built-in CODE App,"Oct 14, 2026",Vulnerability / Malware
-Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages,"Oct 14, 2026",Cybercrime / Financial Fraud
-"U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud","Oct 14, 2026",Cybercrime / Social Engineering
-CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts,"Oct 14, 2026",Vulnerability / Cybercrime
-curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution,"Oct 14, 2026",Vulnerability / Web Security
-How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team,"Oct 14, 2026",Social Engineering / Artificial Intelligence
-"Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days","Oct 14, 2026",Vulnerability / Browser Security
-Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks,"Oct 14, 2026",Malware / Cybercrime
-An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part.,"Oct 14, 2026",Vulnerability / Artificial Intelligence
-"AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host","Oct 14, 2026",Vulnerability / Artificial Intelligence
-Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave,"Oct 14, 2026",Vulnerability / Virtualization
+Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads,"Oct 15, 2026",Spyware / Cyber Espionage
+Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks,"Oct 15, 2026",Cyber Espionage / Malware
+"Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams","Oct 15, 2026",Cybercrime / Web Security
+"NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks","Oct 15, 2026",Vulnerability / Web Security
+Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing,"Oct 15, 2026",Vulnerability / Web Security
+Drupal Patches Critical Field UI Flaw With Unauthenticated RCE Path via Contributed Modules,"Oct 15, 2026",Vulnerability / Web Security
+Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early,"Oct 15, 2026",Malware / Artificial Intelligence
+Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation,"Oct 15, 2026",Vulnerability / Network Security
+Why AI Confidence Is Not Validation,"Oct 15, 2026",AI Governance / Incident Response
+India Mandates Registered Caller Name Display on 4G and Newer Networks From November 1,"Oct 15, 2026",Telecom Security / Privacy
+"GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories","Oct 15, 2026",Supply Chain Attack / Cloud Security
