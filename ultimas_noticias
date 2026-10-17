@@ -1,19 +1,19 @@
 Noticia,Fecha_Publicacion,Hashtags
+Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants,"Oct 17, 2026",Cloud Security / Cyberattack
+Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug,"Oct 16, 2026",Vulnerability / OpenBSD
+Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor,"Oct 16, 2026",Supply Chain Attack / Endpoint Security
+The AI for Security Virtual Summit (Oct 20),,AI for Security
+UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing,"Oct 16, 2026",Phishing / Artificial Intelligence
+OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract,"Oct 16, 2026",Artificial Intelligence / Web Security
+New: Analyzing 2026's Most Prevalent Browser Attack Techniques,,Browser Security / Phishing
+AI Decision Models and Their Impact on AI SOC Platforms,"Oct 16, 2026",Artificial Intelligence / Security Operations
 China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers,"Oct 16, 2026",Zero-Day / Vulnerability
 CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing,"Oct 16, 2026",Artificial Intelligence / Data Security
 PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions,"Oct 16, 2026",Vulnerability / Network Security
-The AI for Security Virtual Summit (Oct 20),,AI for Security
 Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory,"Oct 15, 2026",Linux / Vulnerability
 "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More","Oct 15, 2026",Hacking News / Cybersecurity News
-New: Analyzing 2026's Most Prevalent Browser Attack Techniques,,Browser Security / Phishing
 Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads,"Oct 15, 2026",Spyware / Cyber Espionage
 Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks,"Oct 15, 2026",Cyber Espionage / Malware
 "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams","Oct 15, 2026",Cybercrime / Web Security
 "NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks","Oct 15, 2026",Vulnerability / Web Security
 Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing,"Oct 15, 2026",Vulnerability / Web Security
-Drupal Patches Critical Field UI Flaw With Unauthenticated RCE Path via Contributed Modules,"Oct 15, 2026",Vulnerability / Web Security
-Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early,"Oct 15, 2026",Malware / Artificial Intelligence
-Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation,"Oct 15, 2026",Vulnerability / Network Security
-Why AI Confidence Is Not Validation,"Oct 15, 2026",AI Governance / Incident Response
-India Mandates Registered Caller Name Display on 4G and Newer Networks From November 1,"Oct 15, 2026",Telecom Security / Privacy
-"GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories","Oct 15, 2026",Supply Chain Attack / Cloud Security
