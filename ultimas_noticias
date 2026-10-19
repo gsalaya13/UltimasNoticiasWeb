@@ -1,11 +1,14 @@
 Noticia,Fecha_Publicacion,Hashtags
+Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic,"Oct 19, 2026",Malware / Artificial Intelligence
+Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers,"Oct 19, 2026",Vulnerability / Network Security
+"OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys","Oct 19, 2026",Data Breach / Artificial Intelligence
+SANS Has Taught Defenders Since 1989. AI Security Is the Newest Chapter.,,AI in Cybersecurity
 ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants,"Oct 18, 2026",Cloud Security / Cyber Attack
 MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon,"Oct 17, 2026",Malware / Windows Security
+"Gartner® Hype Cycle™ for CPS Security, 2026",,CPS Security
 Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants,"Oct 17, 2026",Cloud Security / Cyberattack
-The AI for Security Virtual Summit (Oct 20),,AI for Security
 Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug,"Oct 16, 2026",Vulnerability / OpenBSD
 Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor,"Oct 16, 2026",Supply Chain Attack / Endpoint Security
-New: Analyzing 2026's Most Prevalent Browser Attack Techniques,,Browser Security / Phishing
 UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing,"Oct 16, 2026",Phishing / Artificial Intelligence
 OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract,"Oct 16, 2026",Artificial Intelligence / Web Security
 AI Decision Models and Their Impact on AI SOC Platforms,"Oct 16, 2026",Artificial Intelligence / Security Operations
@@ -14,6 +17,3 @@ CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During T
 PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions,"Oct 16, 2026",Vulnerability / Network Security
 Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory,"Oct 15, 2026",Linux / Vulnerability
 "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More","Oct 15, 2026",Hacking News / Cybersecurity News
-Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads,"Oct 15, 2026",Spyware / Cyber Espionage
-Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks,"Oct 15, 2026",Cyber Espionage / Malware
-"Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams","Oct 15, 2026",Cybercrime / Web Security
