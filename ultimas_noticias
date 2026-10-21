@@ -1,19 +1,19 @@
 Noticia,Fecha_Publicacion,Hashtags
-Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware,"Oct 20, 2026",Supply Chain Attack / Cyber Attack
-ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan,"Oct 20, 2026",Vulnerability / Endpoint Security
-Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge,"Oct 20, 2026",Cyber Espionage / Data Security
+PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert,"Oct 21, 2026",Vulnerability / Web Security
+Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites,"Oct 21, 2026",Cyber Attack / Web Security
+"U.S. Orders DeepSeek Removed From Federal Civilian Systems, Bans New Purchases","Oct 21, 2026",Artificial Intelligence / National Security
 SANS Has Taught Defenders Since 1989. AI Security Is the Newest Chapter.,,AI in Cybersecurity
-Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware,"Oct 20, 2026",Artificial Intelligence / Cybercrime
-Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor,"Oct 19, 2026",Vulnerability / Web Security
+"State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web","Oct 21, 2026",Data Breach / Cybercrime
+"CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws","Oct 21, 2026",Vulnerability / Malware
 "Gartner® Hype Cycle™ for CPS Security, 2026",,CPS Security
-Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor,"Oct 19, 2026",Web Security / Vulnerability
-"⚡ Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More","Oct 19, 2026",Cybersecurity News / Hacking
-GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories,"Oct 19, 2026",Developer Security / Supply Chain
-From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software,"Oct 19, 2026",Artificial Intelligence / Enterprise Security
-Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic,"Oct 19, 2026",Malware / Artificial Intelligence
-Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers,"Oct 19, 2026",Vulnerability / Network Security
-"OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys","Oct 19, 2026",Data Breach / Artificial Intelligence
-ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants,"Oct 18, 2026",Cloud Security / Cyber Attack
-MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon,"Oct 17, 2026",Malware / Windows Security
-Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants,"Oct 17, 2026",Cloud Security / Cyberattack
-Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug,"Oct 16, 2026",Vulnerability / OpenBSD
+Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion,"Oct 21, 2026",Cyber Espionage / Threat Intelligence
+"Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software","Oct 20, 2026",Web Security / Browser Security
+Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution,"Oct 20, 2026",Vulnerability / Enterprise Security
+Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA,"Oct 20, 2026",Vulnerability / Network Security
+"Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites","Oct 20, 2026",Artificial Intelligence / Cyber Attack
+Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election,"Oct 20, 2026",Spyware / Mobile Security
+WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators,"Oct 20, 2026",Data Protection / Regulatory Compliance
+What Security Teams Can Do To Tame Wild Code,"Oct 20, 2026",Artificial Intelligence / Runtime Security
+Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns,"Oct 20, 2026",Encryption / Software Security
+"Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader","Oct 20, 2026",Cyber Espionage / Cyber Attack
+ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident,"Oct 20, 2026",Cloud Security / Incident Response
