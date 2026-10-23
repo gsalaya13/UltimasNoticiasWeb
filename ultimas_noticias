@@ -1,19 +1,19 @@
 Noticia,Fecha_Publicacion,Hashtags
+Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image,"Oct 23, 2026",Vulnerability / Web Security
+Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data,"Oct 23, 2026",Vulnerability / Web Security
+Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances,"Oct 23, 2026",Artificial Intelligence / Cryptocurrency
+SANS Has Taught Defenders Since 1989. AI Security Is the Newest Chapter.,,AI in Cybersecurity
+PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware,"Oct 23, 2026",Vulnerability / Threat Intelligence
+The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat,"Oct 22, 2026",Enterprise Security / Artificial Intelligence
+"Gartner® Hype Cycle™ for CPS Security, 2026",,CPS Security
+Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks,"Oct 22, 2026",Vulnerability / Enterprise Security
+eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable,"Oct 22, 2026",Cryptography / Vulnerability
+"ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More","Oct 22, 2026",Hacking News / Cybersecurity News
+Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes,"Oct 22, 2026",Vulnerability / Linux
+Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations,"Oct 22, 2026",Data Privacy / Regulatory
+"INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown","Oct 22, 2026",Cybercrime / Law Enforcement
+"Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation","Oct 22, 2026",Cloud Security / Artificial Intelligence
+OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL,"Oct 22, 2026",Vulnerability / Artificial Intelligence
 LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release,"Oct 22, 2026",Cloud Security / Data Breach
 Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions,"Oct 22, 2026",Vulnerability / Web Security
 "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification","Oct 22, 2026",Vulnerability / Web Security
-SANS Has Taught Defenders Since 1989. AI Security Is the Newest Chapter.,,AI in Cybersecurity
-Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed,"Oct 22, 2026",Vulnerability / Threat Intelligence
-China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack,"Oct 22, 2026",Supply Chain Attack / Cloud Security
-"Gartner® Hype Cycle™ for CPS Security, 2026",,CPS Security
-Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases,"Oct 21, 2026",Vulnerability / Software Security
-LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor,"Oct 21, 2026",Malware / Artificial Intelligence
-"OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So","Oct 21, 2026",AI Security / Enterprise Security
-PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge,"Oct 21, 2026",Vulnerability / Web Security
-Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands,"Oct 21, 2026",Web Security / Browser Security
-China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors,"Oct 21, 2026",Cyber Espionage / Malware
-"Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports","Oct 21, 2026",Email Security / Cybercrime
-"PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't","Oct 21, 2026",Vulnerability / Server Security
-The Harness Is the Hard Part of Agentic Pentesting,"Oct 21, 2026",AI Penetration Testing / Web Security
-Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections,"Oct 21, 2026",Network Security / Cyber Espionage
-PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert,"Oct 21, 2026",Vulnerability / Web Security
