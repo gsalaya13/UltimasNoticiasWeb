@@ -1,19 +1,19 @@
 Noticia,Fecha_Publicacion,Hashtags
+uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts,"Oct 26, 2026",Cyber Espionage / Mobile Security
+Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations,"Oct 26, 2026",Identity Security / Email Security
+Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs,"Oct 26, 2026",Cyber Attack / Cloud Security
+The Toxic Combination: 62% of Agents Are One Prompt Away From Exfiltration,,AI Agent Security
+Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware,"Oct 26, 2026",Artificial Intelligence / Endpoint Security
+Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers,"Oct 25, 2026",Vulnerability / Network Security
+"Turn Your Next Employee Mistake Into a Training Moment, Not a Breach.",,Security Awareness
+PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity,"Oct 25, 2026",Vulnerability / Artificial Intelligence
 OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication,"Oct 25, 2026",Artificial Intelligence / Cybersecurity
 "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software","Oct 24, 2026",Vulnerability / Web Security
 Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline,"Oct 24, 2026",Artificial Intelligence / Data Breach
-"What the FBI Wants From Private-Sector Defenders, Straight From the Source",,Cyber Defense
 Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads,"Oct 24, 2026",Privacy / Artificial Intelligence
 Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet,"Oct 24, 2026",Vulnerability / Endpoint Security
-"Gartner® Hype Cycle™ for CPS Security, 2026",,CPS Security
 CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud,"Oct 24, 2026",Vulnerability / Network Security
 BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations,"Oct 23, 2026",Malware / Cyber Espionage
 Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws,"Oct 23, 2026",Vulnerability / Software Security
 Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions,"Oct 23, 2026",Ransomware / Cybercrime
 "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials","Oct 23, 2026",Vulnerability / Cyber Attack
-PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches,"Oct 23, 2026",Vulnerability / Web Security
-Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack,"Oct 23, 2026",Malware / Cyber Espionage
-Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image,"Oct 23, 2026",Vulnerability / Web Security
-Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data,"Oct 23, 2026",Vulnerability / Web Security
-Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances,"Oct 23, 2026",Artificial Intelligence / Cryptocurrency
-PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware,"Oct 23, 2026",Vulnerability / Threat Intelligence
