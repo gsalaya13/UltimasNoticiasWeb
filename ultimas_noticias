@@ -1,19 +1,19 @@
 Noticia,Fecha_Publicacion,Hashtags
+"Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers","Oct 27, 2026",Malware / Cybercrime
+OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections,"Oct 27, 2026",Artificial Intelligence / Data Security
+Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses,"Oct 27, 2026",Vulnerability / Network Security
+The Toxic Combination: 62% of Agents Are One Prompt Away From Exfiltration,,AI Agent Security
+CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution,"Oct 27, 2026",Vulnerability / Web Security
+"Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento","Oct 26, 2026",Malware / Web Security
+"Turn Your Next Employee Mistake Into a Training Moment, Not a Breach.",,Security Awareness
+PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw,"Oct 26, 2026",Vulnerability / Web Security
+Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware,"Oct 26, 2026",Social Engineering / Malware
+"⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More","Oct 26, 2026",Cybersecurity News / Hacking
+Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes,"Oct 26, 2026",Vulnerability / Software Security
+Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses,"Oct 26, 2026",Network Security / Threat Detection
 uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts,"Oct 26, 2026",Cyber Espionage / Mobile Security
 Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations,"Oct 26, 2026",Identity Security / Email Security
 Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs,"Oct 26, 2026",Cyber Attack / Cloud Security
-The Toxic Combination: 62% of Agents Are One Prompt Away From Exfiltration,,AI Agent Security
 Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware,"Oct 26, 2026",Artificial Intelligence / Endpoint Security
 Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers,"Oct 25, 2026",Vulnerability / Network Security
-"Turn Your Next Employee Mistake Into a Training Moment, Not a Breach.",,Security Awareness
 PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity,"Oct 25, 2026",Vulnerability / Artificial Intelligence
-OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication,"Oct 25, 2026",Artificial Intelligence / Cybersecurity
-"Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software","Oct 24, 2026",Vulnerability / Web Security
-Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline,"Oct 24, 2026",Artificial Intelligence / Data Breach
-Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads,"Oct 24, 2026",Privacy / Artificial Intelligence
-Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet,"Oct 24, 2026",Vulnerability / Endpoint Security
-CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud,"Oct 24, 2026",Vulnerability / Network Security
-BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations,"Oct 23, 2026",Malware / Cyber Espionage
-Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws,"Oct 23, 2026",Vulnerability / Software Security
-Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions,"Oct 23, 2026",Ransomware / Cybercrime
-"Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials","Oct 23, 2026",Vulnerability / Cyber Attack
