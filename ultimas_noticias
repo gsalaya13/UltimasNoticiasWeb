@@ -1,19 +1,19 @@
 Noticia,Fecha_Publicacion,Hashtags
+American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed,"Oct 28, 2026",Threat Intelligence / Phishing
+"Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits","Oct 28, 2026",Artificial Intelligence / Web Security
+FBI Seizes Virtualine Domain Over Alleged Criminal Hosting and Bitcoin Money Laundering,"Oct 28, 2026",Cybercrime / Cyber Infrastructure
+The Toxic Combination: 62% of Agents Are One Prompt Away From Exfiltration,,AI Agent Security
+Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach,"Oct 28, 2026",Cyber Attack / Cybercrime
+Tailscale Patches SSH Flaws That Could Let Hacked Devices Gain Root Access on Other Servers,"Oct 28, 2026",Vulnerability / Network Security
+"Turn Your Next Employee Mistake Into a Training Moment, Not a Breach.",,Security Awareness
+ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws,"Oct 28, 2026",Vulnerability / Enterprise Security
+Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges,"Oct 28, 2026",Vulnerability / Web Security
+CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets,"Oct 27, 2026",Artificial Intelligence / Cyber Attack
+GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption,"Oct 27, 2026",Vulnerability / Encryption
+Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads,"Oct 27, 2026",Vulnerability / Mobile Security
+Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens,"Oct 27, 2026",Vulnerability / Mobile Security
+"Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key","Oct 27, 2026",Cryptocurrency / Data Breach
+AI-Generated Fake Login Pages Are Making Account Takeovers Easier,"Oct 27, 2026",Identity Security / Artificial Intelligence
+Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption,"Oct 27, 2026",Cyber Espionage / Malware
 "Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers","Oct 27, 2026",Malware / Cybercrime
 OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections,"Oct 27, 2026",Artificial Intelligence / Data Security
-Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses,"Oct 27, 2026",Vulnerability / Network Security
-The Toxic Combination: 62% of Agents Are One Prompt Away From Exfiltration,,AI Agent Security
-CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution,"Oct 27, 2026",Vulnerability / Web Security
-"Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento","Oct 26, 2026",Malware / Web Security
-"Turn Your Next Employee Mistake Into a Training Moment, Not a Breach.",,Security Awareness
-PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw,"Oct 26, 2026",Vulnerability / Web Security
-Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware,"Oct 26, 2026",Social Engineering / Malware
-"⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More","Oct 26, 2026",Cybersecurity News / Hacking
-Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes,"Oct 26, 2026",Vulnerability / Software Security
-Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses,"Oct 26, 2026",Network Security / Threat Detection
-uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts,"Oct 26, 2026",Cyber Espionage / Mobile Security
-Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations,"Oct 26, 2026",Identity Security / Email Security
-Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs,"Oct 26, 2026",Cyber Attack / Cloud Security
-Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware,"Oct 26, 2026",Artificial Intelligence / Endpoint Security
-Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers,"Oct 25, 2026",Vulnerability / Network Security
-PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity,"Oct 25, 2026",Vulnerability / Artificial Intelligence
