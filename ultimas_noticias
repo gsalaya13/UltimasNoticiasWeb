@@ -1,19 +1,19 @@
 Noticia,Fecha_Publicacion,Hashtags
+Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls,"Oct 29, 2026",Vulnerability / Network Security
+GitHub Launches npm Firewall to Block Malicious Packages Before Installation,"Oct 29, 2026",DevSecOps / Vulnerability
+Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open,"Oct 29, 2026",Vulnerability / Cyber Attack
+The Toxic Combination: 62% of Agents Are One Prompt Away From Exfiltration,,AI Agent Security
+Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys,"Oct 29, 2026",Vulnerability / Cyber Espionage
+China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility,"Oct 29, 2026",Vulnerability / Cyber Espionage
+"Turn Your Next Employee Mistake Into a Training Moment, Not a Breach.",,Security Awareness
+Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces,"Oct 29, 2026",Vulnerability / Network Security
+Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns,"Oct 28, 2026",Cyber Espionage / Vulnerability
+Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.,"Oct 28, 2026",Mobile Security / App Security
+"Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win","Oct 28, 2026",Vulnerability / Browser Security
+"PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network","Oct 28, 2026",Vulnerability / Cyber Espionage
+Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch,"Oct 28, 2026",Vulnerability / Enterprise Security
+Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers,"Oct 28, 2026",Vulnerability / Network Security
+Wazuh and AI for Enhanced SOC Workflows,"Oct 28, 2026",Artificial Intelligence / Threat Detection
+Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass,"Oct 28, 2026",Vulnerability / Web Security
 American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed,"Oct 28, 2026",Threat Intelligence / Phishing
 "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits","Oct 28, 2026",Artificial Intelligence / Web Security
-FBI Seizes Virtualine Domain Over Alleged Criminal Hosting and Bitcoin Money Laundering,"Oct 28, 2026",Cybercrime / Cyber Infrastructure
-The Toxic Combination: 62% of Agents Are One Prompt Away From Exfiltration,,AI Agent Security
-Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach,"Oct 28, 2026",Cyber Attack / Cybercrime
-Tailscale Patches SSH Flaws That Could Let Hacked Devices Gain Root Access on Other Servers,"Oct 28, 2026",Vulnerability / Network Security
-"Turn Your Next Employee Mistake Into a Training Moment, Not a Breach.",,Security Awareness
-ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws,"Oct 28, 2026",Vulnerability / Enterprise Security
-Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges,"Oct 28, 2026",Vulnerability / Web Security
-CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets,"Oct 27, 2026",Artificial Intelligence / Cyber Attack
-GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption,"Oct 27, 2026",Vulnerability / Encryption
-Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads,"Oct 27, 2026",Vulnerability / Mobile Security
-Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens,"Oct 27, 2026",Vulnerability / Mobile Security
-"Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key","Oct 27, 2026",Cryptocurrency / Data Breach
-AI-Generated Fake Login Pages Are Making Account Takeovers Easier,"Oct 27, 2026",Identity Security / Artificial Intelligence
-Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption,"Oct 27, 2026",Cyber Espionage / Malware
-"Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers","Oct 27, 2026",Malware / Cybercrime
-OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections,"Oct 27, 2026",Artificial Intelligence / Data Security
