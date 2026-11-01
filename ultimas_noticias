@@ -1,19 +1,19 @@
 Noticia,Fecha_Publicacion,Hashtags
+"CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key","Nov 01, 2026",Vulnerability / Cloud Security
+Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script,"Nov 01, 2026",Cryptocurrency / Web Security
+FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist,"Nov 01, 2026",Cyber Crime / Cryptocurrency
+The Toxic Combination: 62% of Agents Are One Prompt Away From Exfiltration,,AI Agent Security
+NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection,"Nov 01, 2026",Windows Security / Cyber Espionage
+Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data,"Oct 31, 2026",Data Security / Cyber Attack
+"Turn Your Next Employee Mistake Into a Training Moment, Not a Breach.",,Security Awareness
 Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access,"Oct 31, 2026",Vulnerability / Cyber Attack
 A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats,"Oct 31, 2026",Vulnerability / Web Security
 "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%","Oct 31, 2026",Threat Intelligence / Network Security
-The Toxic Combination: 62% of Agents Are One Prompt Away From Exfiltration,,AI Agent Security
 Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide,"Oct 30, 2026",Cyber Espionage / Artificial Intelligence
 TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them,"Oct 30, 2026",Vulnerability / Endpoint Security
-"Turn Your Next Employee Mistake Into a Training Moment, Not a Breach.",,Security Awareness
 "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours","Oct 30, 2026",Vulnerability / Web Security
 Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis,"Oct 30, 2026",Hardware Security / Cryptocurrency
 "Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving","Oct 30, 2026",Intrusion Prevention / Endpoint Security
 Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison,"Oct 30, 2026",Cyber Crime / Cyber Espionage
 Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor,"Oct 30, 2026",Malware / Artificial Intelligence
 Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw,"Oct 30, 2026",Vulnerability / Web Security
-CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV,"Oct 30, 2026",Vulnerability / DevSecOps
-"Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen","Oct 30, 2026",Cyber Attack / Cryptocurrency
-"ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories","Oct 29, 2026",Hacking News / Cybersecurity News
-"Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions","Oct 29, 2026",Vulnerability / Linux
-Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners,"Oct 29, 2026",Cryptocurrency / Malware
