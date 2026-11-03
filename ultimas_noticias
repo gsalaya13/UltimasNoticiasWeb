@@ -1,19 +1,19 @@
 Noticia,Fecha_Publicacion,Hashtags
+Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing,"Nov 03, 2026",Vulnerability / Linux
+The 4 Elements of Exposure Prioritization and How to Operationalize Them,"Nov 03, 2026",Threat Intelligence / Security Operations
+Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware,"Nov 03, 2026",Cyber Espionage / Malware
+Shadow AI Is Everywhere. Here’s How You Can Find and Secure It,,Shadow AI / SaaS Security
+Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets,"Nov 03, 2026",Vulnerability / Cryptocurrency
+Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw,"Nov 03, 2026",Ransomware / Cyber Attack
+Put Your First Email Security Agent to Work Uncovering Hidden Threats.,,Email Security
+"New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food","Nov 03, 2026",Cyberattack / Industrial Security
+Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors,"Nov 03, 2026",Vulnerability / Cyber Attack
+Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials,"Nov 03, 2026",Cryptocurrency / Cyber Attack
+"⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More","Nov 02, 2026",Cybersecurity News / Hacking
+"Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access","Nov 02, 2026",Botnet / Cybercrime
+DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment,"Nov 02, 2026",Cyber Espionage / Cyber Attack
 Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers,"Nov 02, 2026",Vulnerability / Artificial Intelligence
 Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy,"Nov 02, 2026",Artificial Intelligence / Threat Detection
 "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data","Nov 02, 2026",Social Engineering / Active Directory
-Shadow AI Is Everywhere. Here’s How You Can Find and Secure It,,Shadow AI / SaaS Security
 Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts,"Nov 02, 2026",Cyber Espionage / Malware
 "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value","Nov 02, 2026",Malware / Artificial Intelligence
-Put Your First Email Security Agent to Work Uncovering Hidden Threats.,,Email Security
-"CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key","Nov 01, 2026",Vulnerability / Cloud Security
-Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script,"Nov 01, 2026",Cryptocurrency / Web Security
-FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist,"Nov 01, 2026",Cyber Crime / Cryptocurrency
-NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection,"Nov 01, 2026",Windows Security / Cyber Espionage
-Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data,"Oct 31, 2026",Data Security / Cyber Attack
-Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access,"Oct 31, 2026",Vulnerability / Cyber Attack
-A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats,"Oct 31, 2026",Vulnerability / Web Security
-"Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%","Oct 31, 2026",Threat Intelligence / Network Security
-Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide,"Oct 30, 2026",Cyber Espionage / Artificial Intelligence
-TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them,"Oct 30, 2026",Vulnerability / Endpoint Security
-"WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours","Oct 30, 2026",Vulnerability / Web Security
