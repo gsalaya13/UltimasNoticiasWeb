@@ -1,19 +1,19 @@
 Noticia,Fecha_Publicacion,Hashtags
+Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads,"Nov 04, 2026",Vulnerability / Web Security
+Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory,"Nov 04, 2026",Vulnerability / Cloud Security
+Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It,"Nov 04, 2026",AI Agent Security / SaaS Security
+New OAuth Risk Analyst Agent: Turn 45 Minutes of Manual Review into 15 Seconds,,Shadow AI / SaaS Security
+China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor,"Nov 04, 2026",Vulnerability / Malware
+"Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure","Nov 04, 2026",Cybercrime / Cyber Espionage
+Put Your First Email Security Agent to Work Uncovering Hidden Threats.,,Email Security
+Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction,"Nov 04, 2026",Vulnerability / Mobile Security
+CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades,"Nov 04, 2026",Vulnerability / Web Security
+"mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity","Nov 03, 2026",Password Security / Incident Response
+Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes,"Nov 03, 2026",Data Breach / Cyber Attack
+Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft,"Nov 03, 2026",Cryptocurrency / Cyber Attack
+Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access,"Nov 03, 2026",Vulnerability / Network Security
+Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges,"Nov 03, 2026",Cloud Security / Artificial Intelligence
+cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes,"Nov 03, 2026",Web Security / Cyber Attack
 Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing,"Nov 03, 2026",Vulnerability / Linux
 The 4 Elements of Exposure Prioritization and How to Operationalize Them,"Nov 03, 2026",Threat Intelligence / Security Operations
 Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware,"Nov 03, 2026",Cyber Espionage / Malware
-Shadow AI Is Everywhere. Here’s How You Can Find and Secure It,,Shadow AI / SaaS Security
-Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets,"Nov 03, 2026",Vulnerability / Cryptocurrency
-Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw,"Nov 03, 2026",Ransomware / Cyber Attack
-Put Your First Email Security Agent to Work Uncovering Hidden Threats.,,Email Security
-"New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food","Nov 03, 2026",Cyberattack / Industrial Security
-Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors,"Nov 03, 2026",Vulnerability / Cyber Attack
-Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials,"Nov 03, 2026",Cryptocurrency / Cyber Attack
-"⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More","Nov 02, 2026",Cybersecurity News / Hacking
-"Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access","Nov 02, 2026",Botnet / Cybercrime
-DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment,"Nov 02, 2026",Cyber Espionage / Cyber Attack
-Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers,"Nov 02, 2026",Vulnerability / Artificial Intelligence
-Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy,"Nov 02, 2026",Artificial Intelligence / Threat Detection
-"Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data","Nov 02, 2026",Social Engineering / Active Directory
-Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts,"Nov 02, 2026",Cyber Espionage / Malware
-"New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value","Nov 02, 2026",Malware / Artificial Intelligence
