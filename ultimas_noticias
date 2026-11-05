@@ -1,19 +1,19 @@
 Noticia,Fecha_Publicacion,Hashtags
+Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out,"Nov 05, 2026",Attack Surface Management
+OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run,"Nov 05, 2026",Artificial Intelligence / Vulnerability
+5 Active Cyber Threats That Put US Enterprises at Risk in October 2026,"Nov 05, 2026",Cyber Attack / Enterprise Security
+New OAuth Risk Analyst Agent: Turn 45 Minutes of Manual Review into 15 Seconds,,Shadow AI / SaaS Security
+Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content,"Nov 05, 2026",Cloud Security / Data Privacy
+CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access,"Nov 05, 2026",Cyber Attack / Artificial Intelligence
+Put Your First Email Security Agent to Work Uncovering Hidden Threats.,,Email Security
+Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution,"Nov 05, 2026",Vulnerability / Network Security
+"Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says","Nov 05, 2026",Vulnerability / Cyber Espionage
+Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root,"Nov 04, 2026",Linux / Vulnerability
+"SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records","Nov 04, 2026",Vulnerability / Enterprise Security
+Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit,"Nov 04, 2026",Artificial Intelligence / Cybersecurity
+APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits,"Nov 04, 2026",
 Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads,"Nov 04, 2026",Vulnerability / Web Security
 Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory,"Nov 04, 2026",Vulnerability / Cloud Security
 Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It,"Nov 04, 2026",AI Agent Security / SaaS Security
-New OAuth Risk Analyst Agent: Turn 45 Minutes of Manual Review into 15 Seconds,,Shadow AI / SaaS Security
 China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor,"Nov 04, 2026",Vulnerability / Malware
 "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure","Nov 04, 2026",Cybercrime / Cyber Espionage
-Put Your First Email Security Agent to Work Uncovering Hidden Threats.,,Email Security
-Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction,"Nov 04, 2026",Vulnerability / Mobile Security
-CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades,"Nov 04, 2026",Vulnerability / Web Security
-"mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity","Nov 03, 2026",Password Security / Incident Response
-Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes,"Nov 03, 2026",Data Breach / Cyber Attack
-Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft,"Nov 03, 2026",Cryptocurrency / Cyber Attack
-Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access,"Nov 03, 2026",Vulnerability / Network Security
-Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges,"Nov 03, 2026",Cloud Security / Artificial Intelligence
-cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes,"Nov 03, 2026",Web Security / Cyber Attack
-Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing,"Nov 03, 2026",Vulnerability / Linux
-The 4 Elements of Exposure Prioritization and How to Operationalize Them,"Nov 03, 2026",Threat Intelligence / Security Operations
-Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware,"Nov 03, 2026",Cyber Espionage / Malware
