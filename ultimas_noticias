@@ -1,19 +1,19 @@
 Noticia,Fecha_Publicacion,Hashtags
+"Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed","Nov 10, 2026",Vulnerability / Mobile Security
+Beyond the Alert: The Case for Rich Network Data,"Nov 10, 2026",Network Security / Security Operations
+Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities,"Nov 10, 2026",Vulnerability / Mobile Security
+AI Security Training for the Job You Already Have,,AI Security / Training
+Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers,"Nov 10, 2026",Cyber Espionage / Malware
+"SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution","Nov 10, 2026",Vulnerability / Enterprise Security
+Know Your Enemy: The Attacker Toolkits Getting Past Security Controls,,Phishing / Enterprise Security
+France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites,"Nov 10, 2026",Cyber Attack / Industrial Sabotage
+Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark,"Nov 10, 2026",Artificial Intelligence / Application Security
+Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026,"Nov 10, 2026",Vulnerability / Browser Security
+N-able Takes N-central Cloud Offline After Researcher Discloses 33 Zero-Days with PoC Exploits,"Nov 10, 2026",Vulnerability / Enterprise Security
+"CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws","Nov 10, 2026",Vulnerability / Cyber Attack
+Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data,"Nov 09, 2026",Cloud Security / Data Breach
+Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware,"Nov 09, 2026",Supply Chain Attack / Malware
+Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia,"Nov 09, 2026",Cyber Espionage / Threat Intelligence
 "⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More","Nov 09, 2026",Cybersecurity News / Hacking
 "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars","Nov 09, 2026",Vulnerability / Automotive Security
 "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety","Nov 09, 2026",Cryptocurrency / Vulnerability
-AI Security Training for the Job You Already Have,,AI Security / Training
-LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks,"Nov 09, 2026",Vulnerability / Cryptocurrency
-Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records,"Nov 09, 2026",Artificial Intelligence / Cyber Espionage
-Know Your Enemy: The Attacker Toolkits Getting Past Security Controls,,Phishing / Enterprise Security
-Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room,"Nov 09, 2026",Cyber Espionage / Insider Threat
-U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses,"Nov 09, 2026",Critical Infrastructure / Cyber Attack
-CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation,"Nov 09, 2026",Vulnerability / Network Security
-"Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub","Nov 07, 2026",Artificial Intelligence / Developer Security
-Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time,"Nov 06, 2026",Vulnerability / Web Security
-"Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot","Nov 06, 2026",Vulnerability / Cyber Attack
-"OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits","Nov 06, 2026",Artificial Intelligence / Software Security
-"Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It","Nov 06, 2026",Vulnerability / Windows Security
-Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers,"Nov 06, 2026",Artificial Intelligence / Browser Security
-The Flood is Coming And The Pipes Were Already Full,"Nov 06, 2026",Open Source Security / Supply Chain
-"Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services","Nov 06, 2026",Data Breach / Cyber Attack
