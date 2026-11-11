@@ -1,19 +1,19 @@
 Noticia,Fecha_Publicacion,Hashtags
+"Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords","Nov 11, 2026",Artificial Intelligence / Data Security
+We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.,"Nov 11, 2026",AI Agent Security
+eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise,"Nov 11, 2026",Web Security / Cryptography
+AI Security Training for the Job You Already Have,,AI Security / Training
+"Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes","Nov 11, 2026",Vulnerability / Windows Security
+"Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges","Nov 11, 2026",Data Breach / AI Security
+Know Your Enemy: The Attacker Toolkits Getting Past Security Controls,,Phishing / Enterprise Security
+Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons,"Nov 11, 2026",Artificial Intelligence / Supply Chain
+Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches,"Nov 11, 2026",Vulnerability / Enterprise Security
+Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones,"Nov 10, 2026",Vulnerability / Software Security
+"SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users","Nov 10, 2026",Vulnerability / Cloud Security
+Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access,"Nov 10, 2026",Vulnerability / Cyber Attack
+Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem,"Nov 10, 2026",Cyber Espionage / Malware
+Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor,"Nov 10, 2026",Vulnerability / Cyber Attack
+Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America,"Nov 10, 2026",Threat Intelligence / Malware
+"Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats","Nov 10, 2026",Cybercrime / Data Breach
 "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed","Nov 10, 2026",Vulnerability / Mobile Security
 Beyond the Alert: The Case for Rich Network Data,"Nov 10, 2026",Network Security / Security Operations
-Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities,"Nov 10, 2026",Vulnerability / Mobile Security
-AI Security Training for the Job You Already Have,,AI Security / Training
-Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers,"Nov 10, 2026",Cyber Espionage / Malware
-"SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution","Nov 10, 2026",Vulnerability / Enterprise Security
-Know Your Enemy: The Attacker Toolkits Getting Past Security Controls,,Phishing / Enterprise Security
-France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites,"Nov 10, 2026",Cyber Attack / Industrial Sabotage
-Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark,"Nov 10, 2026",Artificial Intelligence / Application Security
-Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026,"Nov 10, 2026",Vulnerability / Browser Security
-N-able Takes N-central Cloud Offline After Researcher Discloses 33 Zero-Days with PoC Exploits,"Nov 10, 2026",Vulnerability / Enterprise Security
-"CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws","Nov 10, 2026",Vulnerability / Cyber Attack
-Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data,"Nov 09, 2026",Cloud Security / Data Breach
-Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware,"Nov 09, 2026",Supply Chain Attack / Malware
-Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia,"Nov 09, 2026",Cyber Espionage / Threat Intelligence
-"⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More","Nov 09, 2026",Cybersecurity News / Hacking
-"Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars","Nov 09, 2026",Vulnerability / Automotive Security
-"Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety","Nov 09, 2026",Cryptocurrency / Vulnerability
