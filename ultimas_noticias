@@ -1,19 +1,19 @@
 Noticia,Fecha_Publicacion,Hashtags
+SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths,"Nov 12, 2026",Vulnerability /Malware
+Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs,"Nov 12, 2026",Vulnerability / Cloud Security
+Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them,"Nov 12, 2026",Security Operations / Threat Detection
+AI Says the Homework Is Done. A Forensic Examiner Checks It Anyway.,,AI Security / Training
+"New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access","Nov 12, 2026",Vulnerability / Cyber Attack
+Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign,"Nov 12, 2026",Cloud Security / Email Security
+Know Your Enemy: The Attacker Toolkits Getting Past Security Controls,,Phishing / Enterprise Security
+PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution,"Nov 12, 2026",Vulnerability / Enterprise Security
+Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover,"Nov 12, 2026",Vulnerability / Database Security
+"Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data","Nov 12, 2026",Vulnerability / Web Security
+"Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories","Nov 12, 2026",Supply Chain / Cloud Security
+Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely,"Nov 12, 2026",Vulnerability / Web Security
+ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients,"Nov 12, 2026",Malware / Endpoint Security
+Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation,"Nov 11, 2026",Vulnerability / Software Security
+AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets,"Nov 11, 2026",Artificial Intelligence / Web Security
+"Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits","Nov 11, 2026",Cyber Attack / Ransomware
 "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords","Nov 11, 2026",Artificial Intelligence / Data Security
 We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.,"Nov 11, 2026",AI Agent Security
-eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise,"Nov 11, 2026",Web Security / Cryptography
-AI Security Training for the Job You Already Have,,AI Security / Training
-"Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes","Nov 11, 2026",Vulnerability / Windows Security
-"Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges","Nov 11, 2026",Data Breach / AI Security
-Know Your Enemy: The Attacker Toolkits Getting Past Security Controls,,Phishing / Enterprise Security
-Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons,"Nov 11, 2026",Artificial Intelligence / Supply Chain
-Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches,"Nov 11, 2026",Vulnerability / Enterprise Security
-Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones,"Nov 10, 2026",Vulnerability / Software Security
-"SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users","Nov 10, 2026",Vulnerability / Cloud Security
-Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access,"Nov 10, 2026",Vulnerability / Cyber Attack
-Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem,"Nov 10, 2026",Cyber Espionage / Malware
-Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor,"Nov 10, 2026",Vulnerability / Cyber Attack
-Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America,"Nov 10, 2026",Threat Intelligence / Malware
-"Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats","Nov 10, 2026",Cybercrime / Data Breach
-"Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed","Nov 10, 2026",Vulnerability / Mobile Security
-Beyond the Alert: The Case for Rich Network Data,"Nov 10, 2026",Network Security / Security Operations
