@@ -1,19 +1,19 @@
 Noticia,Fecha_Publicacion,Hashtags
+Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap,"Nov 17, 2026",Supply Chain Security / DevSecOps
+Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission,"Nov 17, 2026",Vulnerability / Mobile Security
+New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels,"Nov 17, 2026",Cyber Espionage / Malware
+Incident Response Starter Pack,,Incident Response / Cloud Security
+Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks,"Nov 17, 2026",Artificial Intelligence / Data Privacy
+"Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors","Nov 17, 2026",Supply Chain Security / Web Skimming
+SANS 2026 State of ICS/OT Security Report,,ICS/OT Security
+ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems,"Nov 17, 2026",Endpoint Security / Vulnerability
+N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners,"Nov 17, 2026",Vulnerability / Endpoint Security
+Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches,"Nov 16, 2026",Agentic AI / Cyber Attacks
+"⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days","Nov 16, 2026",Cybersecurity News / Hacking
 Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login,"Nov 16, 2026",Vulnerability / Operational Technology
 Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware,"Nov 16, 2026",Threat Intelligence / Endpoint Security
 SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity,"Nov 16, 2026",United States
-Incident Response Starter Pack,,Incident Response / Cloud Security
 "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys","Nov 16, 2026",Artificial Intelligence / Cyber Attacks
 "BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server","Nov 16, 2026",Cyber Espionage / Vulnerability
-SANS 2026 State of ICS/OT Security Report,,ICS/OT Security
 Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent,"Nov 15, 2026",Data Privacy / Regulatory Compliance
 Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident,"Nov 15, 2026",Artificial Intelligence / Software Security
-Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection,"Nov 14, 2026",Vulnerability / Network Security
-"PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE","Nov 13, 2026",Vulnerability / Database Security
-New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs,"Nov 13, 2026",Vulnerability / Hardware Security
-FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls,"Nov 13, 2026",Cybercrime / Cyber Espionage
-Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases,"Nov 13, 2026",Cryptocurrency / Supply Chain
-"When an AI Agent Goes Wrong, Can You Stop It?","Nov 13, 2026",Artificial Intelligence / Incident Response
-SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users,"Nov 13, 2026",Cyber Espionage / Threat Intelligence
-"Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins","Nov 13, 2026",Malware / Cybercrime
-Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files,"Nov 13, 2026",Vulnerability / Cyber Espionage
