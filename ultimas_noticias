@@ -1,19 +1,19 @@
 Noticia,Fecha_Publicacion,Hashtags
+"New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years","Nov 18, 2026",Hardware Security / Windows Security
+AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor,"Nov 18, 2026",Penetration Testing / Artificial Intelligence
+"Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More","Nov 18, 2026",Vulnerability / Software Security
+Incident Response Starter Pack,,Incident Response / Cloud Security
+Quality Isn’t The Main Worry About AI Pentesting — Data Privacy and Production Safety Are,"Nov 18, 2026",DevSecOps / Artificial Intelligence
+Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers,"Nov 18, 2026",Enterprise Security / Vulnerability
+SANS 2026 State of ICS/OT Security Report,,ICS/OT Security
+CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution,"Nov 18, 2026",Vulnerability / Enterprise Security
+Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials,"Nov 18, 2026",Supply Chain Security / Malware
+Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization,"Nov 18, 2026",Cyber Espionage / Cloud Security
+Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses,"Nov 17, 2026",Vulnerability / Mobile Security
+Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges,"Nov 17, 2026",Vulnerability / Software Security
+Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers,"Nov 17, 2026",Malware / Social Engineering
 Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap,"Nov 17, 2026",Supply Chain Security / DevSecOps
 Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission,"Nov 17, 2026",Vulnerability / Mobile Security
 New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels,"Nov 17, 2026",Cyber Espionage / Malware
-Incident Response Starter Pack,,Incident Response / Cloud Security
 Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks,"Nov 17, 2026",Artificial Intelligence / Data Privacy
 "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors","Nov 17, 2026",Supply Chain Security / Web Skimming
-SANS 2026 State of ICS/OT Security Report,,ICS/OT Security
-ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems,"Nov 17, 2026",Endpoint Security / Vulnerability
-N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners,"Nov 17, 2026",Vulnerability / Endpoint Security
-Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches,"Nov 16, 2026",Agentic AI / Cyber Attacks
-"⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days","Nov 16, 2026",Cybersecurity News / Hacking
-Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login,"Nov 16, 2026",Vulnerability / Operational Technology
-Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware,"Nov 16, 2026",Threat Intelligence / Endpoint Security
-SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity,"Nov 16, 2026",United States
-"Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys","Nov 16, 2026",Artificial Intelligence / Cyber Attacks
-"BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server","Nov 16, 2026",Cyber Espionage / Vulnerability
-Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent,"Nov 15, 2026",Data Privacy / Regulatory Compliance
-Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident,"Nov 15, 2026",Artificial Intelligence / Software Security
