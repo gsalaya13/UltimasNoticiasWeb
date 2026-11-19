@@ -1,19 +1,19 @@
 Noticia,Fecha_Publicacion,Hashtags
+"Everything Is a Web Application, Including Your Firewall","Nov 19, 2026",Vulnerability / Web Security
+"Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions","Nov 19, 2026",Cloud Security / Email Security
+"Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE","Nov 19, 2026",Vulnerability / Software Security
+Incident Response Starter Pack,,Incident Response / Cloud Security
+"Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle","Nov 19, 2026",Vulnerability / Database Security
+"CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks","Nov 19, 2026",Vulnerability / Cyber Attack
+SANS 2026 State of ICS/OT Security Report,,ICS/OT Security
+"PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19","Nov 19, 2026",Vulnerability / Web Security
+10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers,"Nov 18, 2026",Vulnerability / Web Security
+"F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE","Nov 18, 2026",Network Security / Vulnerability
+"Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required","Nov 18, 2026",Vulnerability / Cyber Attack
+New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks,"Nov 18, 2026",Cyber Espionage / Malware
 "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years","Nov 18, 2026",Hardware Security / Windows Security
 AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor,"Nov 18, 2026",Penetration Testing / Artificial Intelligence
 "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More","Nov 18, 2026",Vulnerability / Software Security
-Incident Response Starter Pack,,Incident Response / Cloud Security
 Quality Isn’t The Main Worry About AI Pentesting — Data Privacy and Production Safety Are,"Nov 18, 2026",DevSecOps / Artificial Intelligence
 Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers,"Nov 18, 2026",Enterprise Security / Vulnerability
-SANS 2026 State of ICS/OT Security Report,,ICS/OT Security
 CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution,"Nov 18, 2026",Vulnerability / Enterprise Security
-Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials,"Nov 18, 2026",Supply Chain Security / Malware
-Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization,"Nov 18, 2026",Cyber Espionage / Cloud Security
-Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses,"Nov 17, 2026",Vulnerability / Mobile Security
-Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges,"Nov 17, 2026",Vulnerability / Software Security
-Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers,"Nov 17, 2026",Malware / Social Engineering
-Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap,"Nov 17, 2026",Supply Chain Security / DevSecOps
-Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission,"Nov 17, 2026",Vulnerability / Mobile Security
-New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels,"Nov 17, 2026",Cyber Espionage / Malware
-Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks,"Nov 17, 2026",Artificial Intelligence / Data Privacy
-"Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors","Nov 17, 2026",Supply Chain Security / Web Skimming
