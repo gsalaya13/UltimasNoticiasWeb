@@ -1,19 +1,19 @@
 Noticia,Fecha_Publicacion,Hashtags
+Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts,"Nov 20, 2026",Vulnerability / Virtualization
+The Path to AI Autonomy in the SOC,"Nov 20, 2026",Security Operations / AI Security
+"SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws","Nov 20, 2026",Network Security / Vulnerability
+Incident Response Starter Pack,,Incident Response / Cloud Security
+"Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network","Nov 20, 2026",Vulnerability / Network Security
+China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data,"Nov 20, 2026",Vulnerability / Cyber Espionage
+SANS 2026 State of ICS/OT Security Report,,ICS/OT Security
+ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs,"Nov 20, 2026",Malware / Threat Intelligence
+New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It,"Nov 20, 2026",Vulnerability / Endpoint Security
+"ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories","Nov 19, 2026",Hacking News / Cybersecurity News
+phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution,"Nov 19, 2026",Vulnerability / Web Security
+"PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution","Nov 19, 2026",Vulnerability / Web Security
+Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication,"Nov 19, 2026",Vulnerability / Enterprise Security
+Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites,"Nov 19, 2026",Vulnerability / Web Security
 "Everything Is a Web Application, Including Your Firewall","Nov 19, 2026",Vulnerability / Web Security
 "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions","Nov 19, 2026",Cloud Security / Email Security
-"Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE","Nov 19, 2026",Vulnerability / Software Security
-Incident Response Starter Pack,,Incident Response / Cloud Security
+"Ruby Ships Fixes for 7 Flaws, Including Critical Ruby2Shell, Said to Hit Default Rails Apps Pre-Auth","Nov 19, 2026",Vulnerability / Software Security
 "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle","Nov 19, 2026",Vulnerability / Database Security
-"CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks","Nov 19, 2026",Vulnerability / Cyber Attack
-SANS 2026 State of ICS/OT Security Report,,ICS/OT Security
-"PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19","Nov 19, 2026",Vulnerability / Web Security
-10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers,"Nov 18, 2026",Vulnerability / Web Security
-"F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE","Nov 18, 2026",Network Security / Vulnerability
-"Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required","Nov 18, 2026",Vulnerability / Cyber Attack
-New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks,"Nov 18, 2026",Cyber Espionage / Malware
-"New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years","Nov 18, 2026",Hardware Security / Windows Security
-AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor,"Nov 18, 2026",Penetration Testing / Artificial Intelligence
-"Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More","Nov 18, 2026",Vulnerability / Software Security
-Quality Isn’t The Main Worry About AI Pentesting — Data Privacy and Production Safety Are,"Nov 18, 2026",DevSecOps / Artificial Intelligence
-Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers,"Nov 18, 2026",Enterprise Security / Vulnerability
-CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution,"Nov 18, 2026",Vulnerability / Enterprise Security
