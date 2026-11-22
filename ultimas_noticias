@@ -1,11 +1,13 @@
 Noticia,Fecha_Publicacion,Hashtags
+OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms,"Nov 22, 2026",Artificial Intelligence / Data Breach
+Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps,"Nov 22, 2026",Vulnerability / Application Security
 A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats,"Nov 21, 2026",Vulnerability / Artificial Intelligence
+Incident Response Starter Pack,,Incident Response / Cloud Security
 GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys,"Nov 21, 2026",Vulnerability / Software Security
 Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access,"Nov 21, 2026",Artificial Intelligence / Cyber Espionage
-Incident Response Starter Pack,,Incident Response / Cloud Security
+SANS 2026 State of ICS/OT Security Report,,ICS/OT Security
 Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS,"Nov 21, 2026",Privacy / Mobile Security
 "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge","Nov 21, 2026",Vulnerability / Enterprise Security
-SANS 2026 State of ICS/OT Security Report,,ICS/OT Security
 "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams","Nov 20, 2026",Vulnerability / Mobile Security
 Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control,"Nov 20, 2026",Mobile Security / Artificial Intelligence
 Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts,"Nov 20, 2026",Vulnerability / Virtualization
@@ -15,5 +17,3 @@ The Path to AI Autonomy in the SOC,"Nov 20, 2026",Security Operations / AI Se
 China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data,"Nov 20, 2026",Vulnerability / Cyber Espionage
 ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs,"Nov 20, 2026",Malware / Threat Intelligence
 New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It,"Nov 20, 2026",Vulnerability / Endpoint Security
-"ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories","Nov 19, 2026",Hacking News / Cybersecurity News
-phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution,"Nov 19, 2026",Vulnerability / Web Security
