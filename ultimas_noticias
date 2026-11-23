@@ -1,19 +1,19 @@
 Noticia,Fecha_Publicacion,Hashtags
+"⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble","Nov 23, 2026",Cybersecurity News / Hacking
+Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions,"Nov 23, 2026",Vulnerability / Open Source
+Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning,"Nov 23, 2026",Vulnerability / Cyber Attack
+"Agent360: Over-Privileged Agents and Risky Integrations, Found Read-Only",,AI Agent Security
+N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation,"Nov 23, 2026",Vulnerability / Cloud Security
+Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE,"Nov 23, 2026",Vulnerability / Web Security
+Omdia Study: How MSPs Cut Costs and Scaled Without Adding Technicians,,Enterprise Security / Managed Services
+Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices,"Nov 23, 2026",Vulnerability / Router Security
+AI-Assisted Cyber Attacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms,"Nov 23, 2026",Artificial Intelligence / Cybercrime
 OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms,"Nov 22, 2026",Artificial Intelligence / Data Breach
 Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps,"Nov 22, 2026",Vulnerability / Application Security
 A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats,"Nov 21, 2026",Vulnerability / Artificial Intelligence
-Incident Response Starter Pack,,Incident Response / Cloud Security
 GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys,"Nov 21, 2026",Vulnerability / Software Security
 Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access,"Nov 21, 2026",Artificial Intelligence / Cyber Espionage
-SANS 2026 State of ICS/OT Security Report,,ICS/OT Security
 Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS,"Nov 21, 2026",Privacy / Mobile Security
 "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge","Nov 21, 2026",Vulnerability / Enterprise Security
 "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams","Nov 20, 2026",Vulnerability / Mobile Security
 Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control,"Nov 20, 2026",Mobile Security / Artificial Intelligence
-Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts,"Nov 20, 2026",Vulnerability / Virtualization
-The Path to AI Autonomy in the SOC,"Nov 20, 2026",Security Operations / AI Security
-"SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws","Nov 20, 2026",Network Security / Vulnerability
-"Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network","Nov 20, 2026",Vulnerability / Network Security
-China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data,"Nov 20, 2026",Vulnerability / Cyber Espionage
-ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs,"Nov 20, 2026",Malware / Threat Intelligence
-New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It,"Nov 20, 2026",Vulnerability / Endpoint Security
