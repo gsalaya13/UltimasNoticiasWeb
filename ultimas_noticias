@@ -1,19 +1,19 @@
 Noticia,Fecha_Publicacion,Hashtags
+VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation,"Nov 24, 2026",Vulnerability / Enterprise Security
+Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site,"Nov 24, 2026",Cybercrime / Identity Security
+Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap,"Nov 24, 2026",Supply Chain Security / DevSecOps
+"Agent360: Over-Privileged Agents and Risky Integrations, Found Read-Only",,AI Agent Security
+Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity,"Nov 24, 2026",Vulnerability / Windows Security
+2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk,"Nov 24, 2026",Threat Intelligence / Security Operations
+Omdia Study: How MSPs Cut Costs and Scaled Without Adding Technicians,,Enterprise Security / Managed Services
+Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets,"Nov 24, 2026",Cloud Security / Vulnerability
+WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login,"Nov 24, 2026",Web Security / Vulnerability
+OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching,"Nov 24, 2026",Artificial Intelligence / Vulnerability
+Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day,"Nov 24, 2026",Vulnerability / Artificial Intelligence
+Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access,"Nov 23, 2026",Cyber Espionage / Malware
 "⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble","Nov 23, 2026",Cybersecurity News / Hacking
 Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions,"Nov 23, 2026",Vulnerability / Open Source
 Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning,"Nov 23, 2026",Vulnerability / Cyber Attack
-"Agent360: Over-Privileged Agents and Risky Integrations, Found Read-Only",,AI Agent Security
 N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation,"Nov 23, 2026",Vulnerability / Cloud Security
 Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE,"Nov 23, 2026",Vulnerability / Web Security
-Omdia Study: How MSPs Cut Costs and Scaled Without Adding Technicians,,Enterprise Security / Managed Services
 Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices,"Nov 23, 2026",Vulnerability / Router Security
-AI-Assisted Cyber Attacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms,"Nov 23, 2026",Artificial Intelligence / Cybercrime
-OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms,"Nov 22, 2026",Artificial Intelligence / Data Breach
-Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps,"Nov 22, 2026",Vulnerability / Application Security
-A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats,"Nov 21, 2026",Vulnerability / Artificial Intelligence
-GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys,"Nov 21, 2026",Vulnerability / Software Security
-Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access,"Nov 21, 2026",Artificial Intelligence / Cyber Espionage
-Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS,"Nov 21, 2026",Privacy / Mobile Security
-"Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge","Nov 21, 2026",Vulnerability / Enterprise Security
-"WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams","Nov 20, 2026",Vulnerability / Mobile Security
-Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control,"Nov 20, 2026",Mobile Security / Artificial Intelligence
